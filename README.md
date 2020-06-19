@@ -1,4 +1,4 @@
-# notion-charts-diegopamio
+# notion-charts-dpamio
 
 ![image](/example.png)
 
